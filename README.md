@@ -1,6 +1,6 @@
 # This is a large heading
 
-# Sean Kross
+# This is an example
 
 ### Geography
 
